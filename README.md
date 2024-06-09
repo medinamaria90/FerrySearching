@@ -47,7 +47,11 @@ pip install -r requirements.txt
     </pre>
 </li>
 </li>
-<li>Access the application at <code>localhost</code>.</li>
+<li>Run the app and access it at <code>localhost</code>.
+<pre>
+python manage.py runserver
+    </pre>
+</li>
 </ol>
 
 <h2 id="environment">3. Environment Configuration</h2>
