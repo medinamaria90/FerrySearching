@@ -30,7 +30,7 @@ appname/
         <ol>
             <li>Clone the repository:
                 <pre>
-git clone https://github.com/yourusername/clickferry.git projectname
+git clone https://github.com/medinamaria90/FerrySearching.git projectname
 cd projectname
                 </pre>
 </li>
